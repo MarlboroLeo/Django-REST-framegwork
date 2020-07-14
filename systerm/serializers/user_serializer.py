@@ -1,5 +1,3 @@
-# @Time    : 2019/1/14 15:11
-# @Author  : xufqing
 from rest_framework import serializers
 from ..models import UserProfile
 import re
