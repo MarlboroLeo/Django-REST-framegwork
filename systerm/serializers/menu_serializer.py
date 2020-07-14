@@ -1,5 +1,3 @@
-# @Time    : 2019/1/14 18:08
-# @Author  : xufqing
 from rest_framework import serializers
 from ..models import Menu
 
