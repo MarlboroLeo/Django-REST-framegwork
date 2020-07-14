@@ -1,6 +1,3 @@
-# @Time    : 2019/1/30 14:36
-# @Author  : xufqing
-
 from rest_framework import serializers
 from ..models import Permission
 
