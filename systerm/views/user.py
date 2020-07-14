@@ -1,32 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@Time    : 2020/1/24 12:42
-@Author  : Young
-@Email   : hyc554@gmail.com
-@File    : user.py
-# code is far away from bugs with the god animal protecting
-    I love animals. They taste delicious.
-         ┌─┐       ┌─┐
-      ┌──┘ ┴───────┘ ┴──┐
-      │                 │
-      │       ───       │
-      │  ─┬┘       └┬─  │
-      │                 │
-      │       ─┴─       │
-      │                 │
-      └───┐         ┌───┘
-          │         │
-          │         │
-          │         │
-          │         └──────────────┐
-          │                        │
-          │                        ├─┐
-          │                        ┌─┘
-          │                        │
-          └─┐  ┐  ┌───────┬──┐  ┌──┘
-            │ ─┤ ─┤       │ ─┤ ─┤
-            └──┴──┘       └──┴──┘
-"""
 from operator import itemgetter
 
 import jwt
